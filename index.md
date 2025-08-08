@@ -7,7 +7,7 @@ title: KINGCOAT SUB — Technical Library
 
 Welcome to our technical library. Find up-to-date spec sheets, packaging details and test reports.
 
-- [11oz Ceramic Mug — Downloads](./products/11oz.md)
-- [15oz Ceramic Mug — Downloads](./products/15oz.md)
+- [11oz Ceramic Mug — Downloads](./products/11oz/)
+- [15oz Ceramic Mug — Downloads](./products/15oz/)
 
 For more items, please contact us.
